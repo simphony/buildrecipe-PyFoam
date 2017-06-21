@@ -1,0 +1,3 @@
+NAME="PyFoam"
+VERSION="0.6.4"
+BUILD="1"
