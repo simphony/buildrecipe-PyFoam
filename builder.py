@@ -34,7 +34,7 @@ def egg():
     common.run("tar -xzf PyFoam-"+VERSION+".tar.gz")
     shutil.copy(
         os.path.join("files", "setup.py"),
-        os.path.join("PyFoam-0.6.4", "setup.py")
+        os.path.join(clone_dir, "setup.py")
         )
     os.makedirs("dist")
 
