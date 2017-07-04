@@ -1,3 +1,4 @@
 PyFoam-*
 dist
 *.pyc
+.devenv
